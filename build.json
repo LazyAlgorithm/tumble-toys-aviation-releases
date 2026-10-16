@@ -1,6 +1,5 @@
 {
-  "gameSource": "0081623d23735315b86ca978de91b2651d6492a1",
-  "engineSource": "053b8619f9f0389a053c40a8b27231c409aa2d51",
-  "verifiedWorkflow": 38848192404,
-  "notes": "Networking test build; file-only log.txt diagnostics."
+  "workflow_commit": "33c62702b224c95ac90e5a69165c07eda9cc5779",
+  "game_source": "c43ce137d3954f78dd549d977aa1558d1b76f810",
+  "engine_source": "053b8619f9f0389a053c40a8b27231c409aa2d51"
 }
