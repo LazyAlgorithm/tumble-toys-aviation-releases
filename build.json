@@ -1,5 +1,7 @@
 {
-  "workflow_commit": "cb7f027d724fed21f65cc38b0a46f5d071146a4c",
-  "game_source": "cb7f027d724fed21f65cc38b0a46f5d071146a4c",
-  "engine_source": "5c90988bc1e0c800c8b3d1dae2ad1bfa1b068494"
+  "source": "df59992b8b489b639db382cf2750d316e8207bfc",
+  "engine": "Tallow",
+  "engine_build": "cfd9db7787e1797d5e7fd4400a7c2d5e00426914",
+  "engine_release": "build-cfd9db7787e1797d5e7fd4400a7c2d5e00426914",
+  "tag": "aviation-20261101-180129-df59992"
 }
